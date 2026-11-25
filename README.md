@@ -1,0 +1,2 @@
+# zoomcamp-rag
+learning purpose
